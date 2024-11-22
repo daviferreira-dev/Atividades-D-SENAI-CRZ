@@ -1,7 +1,5 @@
 Montagem do famoso hambúrguer	(Ordem Certa)
-
 Colocar os ingredientes na seguinte ordem:
-
 	1. Pão (parte de baixo)
 	2. Hambúrguer
 	3. Hambúrguer
